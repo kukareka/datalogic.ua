@@ -134,7 +134,7 @@ body {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/header3.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -169,7 +169,8 @@ header.masthead {
   position: relative;
   display: block;
   max-width: 650px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  text-align: center; }
   .portfolio-box .portfolio-box-caption {
     position: absolute;
     bottom: 0;
